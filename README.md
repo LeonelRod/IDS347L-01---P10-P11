@@ -1,6 +1,8 @@
 # IDS347L-01---P10-P11
+Leonel Rodríguez 
+1098665
 
-#UserManual
+# UserManual
 
 The system in question has to be run in an IDE that has the ability to run the Python language. In case you do not have this section, in the links section below you will see the download link of the language so that you can view the program.
 
