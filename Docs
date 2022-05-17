@@ -1,1 +1,16 @@
+# Requierements 
+
+R.1: The system must ask the user for the integer with which the conversion will be
+R.2: The system must save the number chosen by the user to be converted to Roman
+R.3: The system must perform the conversion showing the numbers in letters
+R.4: The system must ask the user which number he wants to enter
+
+# Criteria of acceptance
+
+CA.1: The system shows the number that was requested in full.
+
+CA.2: Based on the fact that it is a console application, communication between the system and the user is intuitive.
+
+C.A3: Roman numerals are exposed after the integer is sent from the user.
+
 
